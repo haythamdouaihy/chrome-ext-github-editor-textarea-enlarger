@@ -1,0 +1,11 @@
+{
+    "manfiest_version": 2,
+    "name": "gist-editor-height-enlarger",
+    "version": "0.0.1",
+    "description": "chrome app used to enlarge gist editor",
+    "content_scripts": [{
+        "css": ["styles.css"],
+        "js": ["content.js"],
+        "matches": ["https://gist.github.com/*"]
+    }]
+}
