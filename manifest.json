@@ -1,5 +1,5 @@
 {
-    "manfiest_version": 2,
+    "manifest_version": 2,
     "name": "gist-editor-height-enlarger",
     "version": "0.0.1",
     "description": "chrome app used to enlarge gist editor",
